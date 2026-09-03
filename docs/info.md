@@ -9,12 +9,9 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a custom-GDS design using the EZ130 8T library from ETH Zurich. The specific design to be implemented remains yet to be a mystery; we will let you know once it is fixed!
 
 ## How to test
 
-Explain how to use your project
+Coming soon once the mystery is revealed!
 
-## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
